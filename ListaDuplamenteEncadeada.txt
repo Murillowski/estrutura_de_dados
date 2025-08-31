@@ -1,0 +1,7 @@
+Lista Duplamente Encadeada
+
+	Trata-se de uma lista sequencial no qual possui dois campos do tipo ponteiro em sua estrutura, "strcut". Esses ponteiros permitem operar a lista nos dois sentidos, otimizando operações dos dados na lista. Devido a esta característica, a Lista Duplamente Encadeada é a base para demais estruturas que iremos abordar, além de servir para muitos aplicativos, favorecendo suas operações de Date-Recovery.
+
+	Embora a Lista Duplamente Encadeada possa operar dados em dois sentidos, isso não significa ganho no desempenho no armazenamento e recuperação dos dados.
+
+	Uma Lista Duplamente Encadeada possui dois ponteiros sentinela para que a lista torne-se circular.
