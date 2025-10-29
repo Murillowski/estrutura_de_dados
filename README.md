@@ -1,9 +1,6 @@
 
 # Exercícios de Estrutura de Dados
 
-Códigos em C e materiais de apoio produzidos na disciplina de Estrutura de Dados durante o 3º semestre do curso de ADS da Fatec Americana.
-
-
 ## Conteúdos
 
 - Árvore
